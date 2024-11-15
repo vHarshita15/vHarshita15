@@ -23,23 +23,7 @@ I’m currently a **B.Tech student** in **Electronics and Communication Engineer
 - **Languages:** Python, C++, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React, Bootstrap, Seaborn, Matplotlib
 - **Version Control:** Git, GitHub
-- **Core Skills:** Data Structures & Algorithms (DSA), Frontend Development, UI/UX
-
----
-
-## 🚀 Professional Experience
-- **Microsoft Learn Student Ambassador**  
-   Guided peers on utilizing Microsoft resources and actively contributed to building a tech-savvy community.
-
-- **Codess Cafe’24 Mentee**  
-   Focused on enhancing technical skills in DSA and software development while building a strong network of professionals and peers.
-
-- **Frontend Developer Intern at IBM SkillBuild CSRBOX**  
-   Designed and optimized user-friendly interfaces, enhancing web application interactivity and user experience.
-
-- **GSSOC’24 & SSOC’24 Open Source Contributor**  
-   Collaborated on open-source projects, improved code quality, and actively engaged in collaborative coding and project management.
-
+- **Core Skills:** Data Structures & Algorithms (DSA), Frontend Development, UI/UX Developer
 ---
 
 ## 💻 Featured Projects
