@@ -43,10 +43,10 @@ I’m currently a **B.Tech student** in **Electronics and Communication Engineer
 ---
 
 ## 💻 Featured Projects
-- **📊 Salary Dataset Visualization: 
+-: **📊 Salary Dataset Visualization:** 
    Cleaned and visualized salary data with **Seaborn** and **Matplotlib**, creating easy-to-read charts and graphs that bring clarity to complex data.
 
-- **🌱 Farmer Management System (FMS):
+- **🌱 Farmer Management System (FMS):**  :
    Developed a frontend project that integrates crop, weather, and market data, empowering farmers with actionable insights.
 ---
 
