@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Harshita Verma
+# 👋 Hey there! I'm Harshita 
 
 **Aspiring ECE Engineer** | **Microsoft Learn Student Ambassador** | **Open Source Enthusiast** | **Frontend Developer**
 
