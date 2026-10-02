@@ -1,5 +1,4 @@
-# Hi 👋, I'm Harshita 
-
+# Hi 👋, I'm Harshita
 
 ### ECE Student | Full-Stack Developer | AI Integration
 
