@@ -86,7 +86,7 @@ I build full-stack web apps with AI integration and I'm preparing for **SDE inte
 ## 📊 GitHub Stats
 
 <p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vHarshita15&show_icons=true&include_all_commits=true&theme=default&hide_border=false" alt="Harshita's GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vHarshita15&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=false" alt="Harshita's GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vHarshita15&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
